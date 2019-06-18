@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tp.interfaces.et.classes.abstraites;
+package project;
 
 import banque.*;
 import java.util.*;
@@ -15,7 +15,7 @@ import utilitaire.Outils;
  *
  * @author basse
  */
-public class TPInterfacesEtClassesAbstraites {
+public class project {
 
     /**
      * @param args the command line arguments
